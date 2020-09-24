@@ -1,0 +1,3 @@
+Quite a good DES-Analyse Program to understand and test every step of DES, his Rounds, 
+the relationship to S-boxes und so on ... 
+The program needs VCI Formula One Library (VCF132.OCX)
